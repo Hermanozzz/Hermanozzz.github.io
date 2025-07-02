@@ -1,0 +1,2 @@
+This project contains a start up menu for registering users into an online farming advice consultancy. New users are able to sign up, share details on what advice they are looking for in particular and receive appropriate advice depending on the specifications of their land
+![image alt](https://github.com/Hermanozzz/Hermanozzz.github.io/blob/3fa757915571ccc4826df1565ab32f081a481e94/RuwakaInc%20logo.jpeg)
