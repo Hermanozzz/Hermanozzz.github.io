@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup</title>
+    <link rel="stylesheet" href="/CSS/signup.css" />
+</head>
+<body>
+    <div class ="wrapper">
+        <h1>Signup</h1>
+        <form>
+            <div>
+                <label for="fullnames-input">
+                    <img src="/assets/account_circle.svg">
+                </label>
+                <input required type="text" name="fullnames" id="fullnames-input" placeholder="Fullnames">
+            </div>
+            <div>
+                <label for="phonenumber-input">
+                    <img src="/assets/call.svg">
+                </label>
+                <input required type="number" name="Phone number" id="phonenumber-input" placeholder="Phonenumber">
+            </div>
+            <div>
+                <label for="password-input">
+                    <img src="/assets/lock_open.svg">
+                </label>
+                <input required type="password" name="password" id="password-input" placeholder="Password">
+            </div>
+            <div>
+                <label for="repeat-password-input">
+                    <img src="/assets/lock.svg">
+                </label>
+                <input required type="password" name="repeat-password" id="repeat-password-input" placeholder="Repeat password">
+            </div>
+            <button type="submit">Signup</button>
+        </form>
+        <p>Already have an account? <a href="/HTML/login.html">login</a></p>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
