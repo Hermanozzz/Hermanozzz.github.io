@@ -1,3 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Ruwaka Inc</title>
+<style>
+  body {
+    margin: 0;
+    background-color: black;
+    color: #1e90ff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px;
+    background: url(https://github.com/Hermanozzz/Hermanozzz.github.io/blob/ae766db803235706df41cf0ff337edb3fb79a6ab/RuwakaInc%20logo.jpeg) no-repeat center center/cover;
+    position: relative;
+    overflow: hidden;
 header {
     background-color: rgb(53, 90, 55);
     border-bottom: 1.2px solid #454545;
@@ -53,3 +74,4 @@ footer label{
   font-size: 1.5rem;
   font-weight: 500;
 }
+      </Styles>
